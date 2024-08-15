@@ -18,7 +18,7 @@ Actors:
 ```solidity
  git clone https://github.com/bestokai1/smart-contract-lottery
  code smart-contract-lottery
- build
+ forge build
 ```
 
 
